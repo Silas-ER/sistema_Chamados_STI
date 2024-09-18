@@ -19,9 +19,9 @@ Repositório dedicado ao desenvolvimento do sistema de chamados interno da [CONT
 ## Sobre o projeto
 
 O Sistema de Chamados Interno do Estado do RN é coordenado pela Secretaria de Tecnologia da Informação e tem como objetivo proporcionar uma gestão eficiente e centralizada dos chamados técnicos e administrativos dentro das diversas secretarias e órgãos do governo. Integrado ao servidor LDAP do estado, o sistema permite que os servidores realizem login utilizando suas credenciais da rede interna, garantindo maior segurança e controle de acesso.
-<br>
+<br><br>
 O sistema facilita a abertura, acompanhamento e resolução de chamados, promovendo a comunicação entre os setores e possibilitando um suporte técnico ágil e eficaz. Além disso, oferece funcionalidades como a categorização de chamados, histórico de atendimentos, relatórios de desempenho e indicadores de tempo de resposta.
-<br>
+<br><br>
 Com essa ferramenta, o governo do RN visa aumentar a eficiência na solução de problemas internos e assegurar a continuidade dos serviços públicos, melhorando a transparência e a qualidade do atendimento aos servidores estaduais.
 
 
