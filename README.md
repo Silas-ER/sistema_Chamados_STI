@@ -1,4 +1,4 @@
-
+<p align="center"><a href="#"><img src="src/icon.jpeg" width="400"></a></p>
 
 ## Sistema de Chamados Interno 
 
