@@ -1,0 +1,32 @@
+<h1>histórico de solicitações</h1>
+{{#each posts}}
+    <p>{{this.id}} - {{this.nome}} - {{this.matricula}} - 
+        {{this.setor}} - {{this.descricao}} - {{this.status}}</p>
+    <button> Delete </button>
+    <hr>   
+{{/each}}
+<!--
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Matrícula</th>
+            <th>Setor</th>
+            <th>Descrição</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each posts}}
+        <tr>
+            <td>{{this.id}}</td>
+            <td>{{this.nome}}</td>
+            <td>{{this.matricula}}</td>
+            <td>{{this.setor}}</td>
+            <td>{{this.descricao}}</td>
+            <td>{{this.status}}</td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table> -->
